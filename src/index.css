@@ -1,0 +1,14 @@
+@keyframes Animations {
+  from {background-position: 0% 0%; }
+  to {background-position: 100% 100%; }
+}
+
+
+
+body {
+  background-image: url("https://res.cloudinary.com/zenbusiness/q_auto,w_1200/v1670445040/logaster/logaster-2020-06-image8.png");
+  background-size: 2000px 1000px;
+  background-repeat: no-repeat;
+  animation-name: Animations;
+}
+
